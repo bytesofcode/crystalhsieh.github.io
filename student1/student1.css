@@ -31,13 +31,10 @@ ul {
 }
 a:link {
     color: #ff82b4
-    text-decoration: none;
 }
 a:visited {
     color: #00917d;
-    text-decoration: none;
 }
 a:hover {
-    color:#f2a452;
-    text-decoration: none;
+    color:#c62700;
 }
