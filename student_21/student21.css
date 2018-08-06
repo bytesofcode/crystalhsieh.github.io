@@ -40,4 +40,7 @@ a:visited{
 a:hover {
          color:#ff66bf;
          text-decoration:none;
-}        
+}  
+a:active {
+        color:blue;
+        text-decoration: none;
