@@ -44,5 +44,6 @@ a:hover {green} Style when the user mouses over a link.
 a:focus {yellow} Style when the user clicks on a link.
 a:active {red} Style when the user has clicked a link.
 
-
+body{
 background-color: #A7CAFD;
+}
