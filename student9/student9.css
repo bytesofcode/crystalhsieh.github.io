@@ -7,8 +7,9 @@ h2 {
 h3 {
     color: red;
 }
-div {
+img {
     margin: auto;
     display: block;
     width: 33%;
+    height: auto;
 }
