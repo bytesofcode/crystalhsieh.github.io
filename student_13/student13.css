@@ -1,5 +1,6 @@
 body {
 color: blue;
+   background-color: yellow;
 }
 
 h1 {
@@ -33,6 +34,6 @@ div {
 #hawaii{
 }
 
-{
-  background-color: yellow;
+#song{
+  color:purple;
 }
