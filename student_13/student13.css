@@ -18,4 +18,6 @@ h2{
 
 div { 
   margin:auto;
+  display: block;
+  width:33%;
 }
