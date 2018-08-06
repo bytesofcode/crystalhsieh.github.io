@@ -16,3 +16,6 @@ div {
        display: block;
        clear:both;
 }
+ul {
+        text-align: center
+}
