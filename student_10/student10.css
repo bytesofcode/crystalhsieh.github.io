@@ -12,3 +12,9 @@ h3  {
 .places {
     color:  blue;
 }
+div {
+    margin: 0 auto;
+    display:    block;
+    clear:  both;
+}
+    
