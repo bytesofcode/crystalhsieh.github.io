@@ -27,3 +27,17 @@ img {
   font-style: oblique; 
 }
 
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFB6C1;
+  text-decoration: none;
+}
+
+a: focus {
+    color: #EE82EE;
+    text-decoration: none; 
+} 
