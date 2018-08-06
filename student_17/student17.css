@@ -1,7 +1,6 @@
 h1 {
   color: blue;
-  padding: 50px;
-  padding: 1em;
+  text-align: center;
 }
 
 h2 {
@@ -45,3 +44,4 @@ a: focus {
 body {
 background-color: #CCFFFF;
 }
+
