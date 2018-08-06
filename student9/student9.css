@@ -13,6 +13,10 @@ img {
     margin: auto;
     height: auto;
 }
-.Places {
+.places {
     text-align:center;
+    display: block;
+    width: 33%;
+    margin: auto;
+    height: auto;
 }
