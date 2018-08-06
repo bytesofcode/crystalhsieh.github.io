@@ -9,4 +9,9 @@ h2 {
 h3{
   color: red;
  } 
+img{
+  margin:auto;
+  display:block;
+  width:33%;
+}
 
