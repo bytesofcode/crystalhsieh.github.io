@@ -33,7 +33,7 @@ a:link {
 }
 
 a:hover {
-  color: #FFB6C1;
+  color: #00FFFF;
   text-decoration: none;
 }
 
@@ -41,3 +41,5 @@ a: focus {
     color: #EE82EE;
     text-decoration: none; 
 } 
+
+backgrond-color: #1ef3ed;
