@@ -12,7 +12,7 @@ h3 {
         color:red;
 }
 img {
-       margin-right: auto;
-       margin-left:auto;
-        clear:both;
+       margin: 0 auto;
+       display: block;
+       clear:both;
 }
