@@ -19,5 +19,7 @@ h3{
   color: yellow;
 }
 #mango {
+  font-weight: bold;
+  font-style: oblique;
   color: orange;
 }
