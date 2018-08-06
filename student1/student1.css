@@ -30,14 +30,14 @@ ul {
     font-style: italic;
 }
 a:link {
-    color: rgb(242, 164, 82);
+    color: #ff82b4
     text-decoration: none;
 }
 a:visited {
-    color: rgb(2, 140, 145);
+    color: #00917d;
     text-decoration: none;
 }
 a:hover {
-    color:rgb(255, 147, 230;
+    color:#f2a452;
     text-decoration: none;
 }
