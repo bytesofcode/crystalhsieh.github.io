@@ -7,10 +7,16 @@ h2 {
   color: #98FF98;
 }
 
-h3 {
+h4 {
   color: #FF0000;
 }
 
 img {
   clear: both;
 }
+
+ol {
+  margin: auto;
+}
+
+
