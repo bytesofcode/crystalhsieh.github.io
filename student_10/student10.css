@@ -10,7 +10,7 @@ h3  {
     color: red;
 }
 .classname {
-    color:  blue;
+    color:"#003E74";
 }
 div {
     margin: auto;
