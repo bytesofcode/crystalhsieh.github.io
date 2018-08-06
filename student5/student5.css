@@ -4,10 +4,10 @@ text-align:center;
 letter-spacing: 0.5em;
 }
 
-h2{
+#favorite-icecream{
 color: #000080;
 }
 
-h3{
-color: #000080;
+#food-i-dislike{
+color: red;
 }
