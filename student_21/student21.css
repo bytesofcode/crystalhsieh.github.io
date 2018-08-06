@@ -13,4 +13,7 @@ h3 {
 }
 img {
         clear:both;
+        margin:auto;
+        float:left;
+        display:block;    
 }
