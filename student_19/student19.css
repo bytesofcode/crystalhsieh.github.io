@@ -11,7 +11,9 @@ h4 {
   color: #FF0000;
 }
 
-img {
+div {
+  margin: 0 auto;
+  display: block;
   clear: both;
 }
 
@@ -22,6 +24,18 @@ img {
 #song {
   font-weight: bold;
   font-weight: oblique;
+}
+
+a:link {
+  color: #008000;
+}
+
+a:visitied {
+  color: #800080;
+}
+
+a:hover {
+  color: #32CD32;
 }
 
 
