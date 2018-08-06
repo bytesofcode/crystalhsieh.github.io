@@ -46,5 +46,6 @@ a: focus {
 
 body {
 background-color: #CCFFFF;
+border: 2px dashed blue; 
 }
 
