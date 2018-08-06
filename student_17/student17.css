@@ -12,7 +12,8 @@ h3 {
   color: #FF0000;
 }  
 
-div { margin: 0 auto;
+div { 
+  margin: 0 auto;
   display: block;
   clear: both;
 }
