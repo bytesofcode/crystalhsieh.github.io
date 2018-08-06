@@ -8,8 +8,8 @@ h3 {
     color: red;
 }
 img {
-    margin: auto;
     display: block;
     width: 33%;
+    margin: auto;
     height: auto;
 }
