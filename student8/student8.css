@@ -3,9 +3,13 @@ body {
 }
 
 h1 {
-  color: red;
+  color: orange;
 }
 
 h2 {
-  color: brown
+  color: brown;
+}
+
+h3 {
+  color: red;
 }
