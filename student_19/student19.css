@@ -30,6 +30,7 @@ img {
 
 a:link {
   color: #008000;
+  text-decoration: none;
 }
 
 a:visitied {
