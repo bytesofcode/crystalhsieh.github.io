@@ -13,9 +13,10 @@ h4 {
 }
 
 img {
-  display: block;
-  wdith: 250px;
   margin: auto;
+  display: block;
+  wdith: 33%;
+
 }
 
 .places {
