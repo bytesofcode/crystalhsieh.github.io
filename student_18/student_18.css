@@ -1,16 +1,10 @@
 body {
   color: black;
-  text-align: center;
  }
 h1 {
   color: purple;
+  text-align: center
 }
 h4 {
   color: red
-}
-ol {
-  text-align: left
-}
-h3 {
-  text-align: left
 }
