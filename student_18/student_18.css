@@ -3,11 +3,11 @@ body {
  }
 h1 {
   color: purple;
-  text-align: center
+  text-align: center;
 }
 h4 {
-  color: red
+  color: red;
 }
-My name is Rachel {
-  text-align: center
+#my-name {
+  text-align: center;
 }
