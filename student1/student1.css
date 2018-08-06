@@ -25,3 +25,6 @@ ul {
 .Places{
     color: yellow;
 }
+#Song {
+    font-weight: bold;
+    font-style: italicized; 
