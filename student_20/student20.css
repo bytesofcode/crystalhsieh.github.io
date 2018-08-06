@@ -1,0 +1,26 @@
+
+
+body {
+  font-family: 'Pacifico', 'cursive';
+}
+
+a: link {
+  color: purple;
+}
+
+a: visited {
+  color: blue;
+}
+
+
+a: hover {
+  color: navy blue;
+}
+
+a: focus {
+  color: yellow;
+}
+
+a: active {
+  color: sky blue;
+}
