@@ -1,5 +1,6 @@
 body {
         color: blue;
+        background-color:#dbc4f2;
 }
 h1 {
         color:purple;
@@ -44,6 +45,4 @@ a:hover {
 a:active {
         color:blue;
         text-decoration: none;
-body {
-        background-color:#dbc4f2;
-   }
+}
