@@ -8,9 +8,8 @@ h3 {
     color: #FF9999;
 }
 div {
-    display: block;
-    width: 33%;
     margin: auto;
-    height: auto;
+    display: block;
+    width: 33%;  
 }
 
