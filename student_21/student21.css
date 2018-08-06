@@ -14,7 +14,7 @@ h3 {
 div {
        margin: 0 auto;
        display: block;
-       clear:both;
+       width:33%;
 }
 ul {
         text-align: center
