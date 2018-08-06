@@ -3,7 +3,5 @@ body{
 }
 h1{
   color: #ff4980;
-   margin auto;
-  display: block;
-  width:33%
+  text-align: center; 
 }
