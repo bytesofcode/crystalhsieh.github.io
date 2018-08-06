@@ -21,3 +21,6 @@ div {
   display: block;
   width: fit-content;
 }
+.places {
+   color: orange;
+}
