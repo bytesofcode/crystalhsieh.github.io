@@ -30,3 +30,4 @@ a:visited {blue } Styles visited links.
 a:hover {green } Style when the user mouses over a link.
 a:focus {lavender } Style when the user clicks on a link.
 a:active {skyblue } Style when the user has clicked a link.
+}
