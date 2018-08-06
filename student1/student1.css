@@ -29,3 +29,15 @@ ul {
     font-weight: bold;
     font-style: italic;
 }
+a:link {
+    color: rgb(191, 131, 184);
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(206, 219, 107);
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(124, 165, 136);
+    text-decoration:none;
+}
