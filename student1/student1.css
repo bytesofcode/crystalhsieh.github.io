@@ -3,4 +3,8 @@ body {
 }
 h1 {
     color: pink;
+    letter-spacing: 0.6em;
+}
+h2 {
+    color: brown;
 }
