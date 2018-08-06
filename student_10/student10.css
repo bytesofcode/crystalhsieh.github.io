@@ -15,11 +15,9 @@ h3  {
 div {
     margin: auto;
     display:block;
-    width:33%
+    width:33%;
 }
-(selector)
-    color:    blue;
-    background-color:#E6E6FA;
-    font-size:12px
-background-color: blue;
-
+body{
+    font-size:12px;
+    background-color: blue;
+}
