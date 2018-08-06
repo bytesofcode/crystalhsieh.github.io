@@ -31,3 +31,8 @@ a:hover {green } Style when the user mouses over a link.
 a:focus {lavender } Style when the user clicks on a link.
 a:active {skyblue } Style when the user has clicked a link.
 }
+(selector) {     
+            color: black;
+            background-color: #000000;
+            font-size: 12px;
+}
