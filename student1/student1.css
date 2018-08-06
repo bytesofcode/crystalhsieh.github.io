@@ -6,14 +6,17 @@ h1 {
     letter-spacing: 0.6em;
 }
 h2 {
-    color: orange;
+    color: brown;
 }
 h3 {
     color: red;
 }
 div {
-    margin: 0 auto;
+    margin: auto;
     display: block;
-    clear: both;
+    width: 33%;
+}
+ul {
+    text-align: centered;
 }
     
