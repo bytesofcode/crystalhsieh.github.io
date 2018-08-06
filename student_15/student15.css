@@ -11,5 +11,7 @@ h3{
   color: red;
 }
 img {
+  display: block;
+  width: 100%;
   margin: auto; 
 }
