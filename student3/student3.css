@@ -3,9 +3,11 @@ body {
         
 }
 h1 {
-        color: red;
+        color: green;
         padding: 5px
 }
 h2 {
         color: brown;
+img {
+        floast: center;
         
