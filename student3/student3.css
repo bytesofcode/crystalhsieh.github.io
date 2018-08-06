@@ -18,4 +18,6 @@ div {
         display: block;
         width: 33%;
 }
-        
+#places {
+        text-align: center
+}
