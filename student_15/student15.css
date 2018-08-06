@@ -25,12 +25,12 @@ h3{
 a:link {
       color:pink;        
       text-decoration: none; 
-
+}
 a:visited {color:blue} 
 a:hover {color:green} 
 a:focus {color:lavender} 
 a:active {color:skyblue}
-}
+
 body {
 background-color: blue;
 }
