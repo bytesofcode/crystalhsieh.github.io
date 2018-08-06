@@ -1,13 +1,14 @@
 body {
         color: blue;
         margin: auto;
+        background-color: #86aace;
         
 }
 h1 {
         color: #E6E6FA;
         letter-spacing: 0.5em;
 }
-h2 {
+#Chocolate {
         color: brown;
 }
 #Broccoli {
