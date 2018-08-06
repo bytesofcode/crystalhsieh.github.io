@@ -27,3 +27,7 @@ li {
 body {
     backround-color:#F9D1DA
 }
+p.one {
+    border-style: solid;
+    border-color: #FF9999;
+}
