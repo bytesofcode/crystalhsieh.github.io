@@ -30,11 +30,14 @@ ul {
     font-style: italic;
 }
 a:link {
-    color: #ff82b4
+    color: #ff82b4;
+        text-decoration: none;
 }
 a:visited {
     color: #00917d;
+    text-decoration: none;
 }
 a:hover {
     color:#c62700;
+    text-decoration: none;
 }
