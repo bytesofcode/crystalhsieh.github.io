@@ -18,6 +18,7 @@ img {
     height: 33%%
 }
 ul {
-    text-align: centered;
+    text-align: center;
+    list-style-type: none;
 }
     
