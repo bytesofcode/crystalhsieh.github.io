@@ -29,7 +29,7 @@ ul {
         font-weight: bold;
 }
 a:link {
-        color:rgb(165, 165, 239);
+        color:#a5efad;
         text-decoration:none;
  } 
 a:visited{
@@ -38,6 +38,6 @@ a:visited{
 }        
     
 a:hover {
-         color:rgb(249, 4, 209);
+         color:#ff66bf;
          text-decoration:none;
 }        
