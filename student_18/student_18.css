@@ -11,7 +11,7 @@ h1 {
 }
 #my-name {
   text-align: center;
-  text-color: #1aa3ff;
+  color: #1aa3ff;
 }
 #second-page {
   color: green;
@@ -21,4 +21,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 10%;
+}
+h2 {
+  color: #33ffbb
 }
