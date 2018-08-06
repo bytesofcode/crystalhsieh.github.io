@@ -30,6 +30,7 @@ ul {
 }
 a:link {
         color:rgb(165, 165, 239);
+        text-decoration:none;
  } 
 a:visited{
         color:#bcbbf7;
