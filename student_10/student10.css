@@ -9,9 +9,9 @@ h2  {
 h3  {
     color: red;
 }
-.classname {
+/*.classname {
     color:blue;
-}
+}*/
 div {
     margin: auto;
     display:block;
@@ -24,6 +24,7 @@ body{
 a {
     text-decoration:none;
 }
+/*
 .Places {
     color: blue;
-}
+}*/
