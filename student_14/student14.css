@@ -9,3 +9,8 @@ letter-spacing:0.5em;
 h2{
 color:#ffcc66;
 }
+div{
+  margin:auto;
+  display:block;
+  width:fit-content;
+}
