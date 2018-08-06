@@ -11,3 +11,9 @@ color: #000080;
 #foods-i-dislike{
 color:  red;
 }
+
+img{
+margin: auto;
+display: block:
+width: 33%;
+}
