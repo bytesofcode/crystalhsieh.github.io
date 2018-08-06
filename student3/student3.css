@@ -4,7 +4,7 @@ body {
         
 }
 h1 {
-        color: yellow;
+        color: #E6E6FA;
         letter-spacing: 0.5em;
 }
 h2 {
@@ -21,3 +21,20 @@ div {
 .places {
         text-align: center
 }
+#song {
+        font-weight: bold;
+        font-style: italic;
+}
+a:link {
+        color: green;
+        text-decoration: none;
+}
+a: visited {
+        color: blue;
+        text-decoration: none;
+}
+a: hover {
+        color: purple;
+        text-decoration: none;
+        
+                
