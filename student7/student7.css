@@ -6,3 +6,6 @@ body {
 body {
 font-family: 'Lobster', cursive;
 }
+body {
+  text-shadow: 2px 2px #00FFFF
+}
