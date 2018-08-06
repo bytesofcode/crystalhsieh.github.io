@@ -17,3 +17,8 @@ div{
 #badFoods{
   color:red;
 }
+.places{
+margin:auto;
+  display:block;
+  width:fit-content;
+}
