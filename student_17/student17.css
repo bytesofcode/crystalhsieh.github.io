@@ -7,6 +7,7 @@ h1 {
 h2 {
   color: #98FF98;
   font-family: Courier;
+  text-shadow: 2px 2px blue;
 }
 
 h3 {
@@ -46,6 +47,6 @@ a: focus {
 
 body {
 background-color: #CCFFFF;
-border: 2px dashed blue; 
+border: 1px dashed blue; 
 }
 
