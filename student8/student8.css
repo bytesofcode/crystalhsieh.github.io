@@ -33,3 +33,15 @@ ol {
 #song {
       color: #33FFDD;
 }
+
+a:link {           
+      color: blue;        
+      text-decoration: none; 
+} 
+
+a:visited {blue} Styles visited links.
+a:hover {green} Style when the user mouses over a link.
+a:focus {yellow} Style when the user clicks on a link.
+a:active {red} Style when the user has clicked a link.
+
+
