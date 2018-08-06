@@ -25,4 +25,6 @@ ul {
 }
 #favoritesong {
         color:rgb(106, 242, 228);
+        font-style: oblique;
+        font-weight: bold;
 }
