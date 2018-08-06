@@ -17,5 +17,8 @@ img {
        width:33%;
 }
 ul {
-        text-align: center
+        text-align: center;
+}
+li {
+        text-decoration:none;
 }
