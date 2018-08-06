@@ -40,8 +40,12 @@ a:link {
       text-decoration: none; 
 } 
 
-a:visited {blue}
-a:hover {green}
-a:focus {yellow}
-a:active {red}
+a:visited {
+  color: blue}
+a:hover {
+  color: green}
+a:focus {
+  color: yellow}
+a:active {
+  color: red}
 
