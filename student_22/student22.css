@@ -18,14 +18,14 @@ img{
   margin:auto;
   display:block;
   width:33%;
-   }
+}
+a:link{
+  text-decoration: none;
+}
 a:hover{
-color: lightblue;
+  color: lightblue;
  }
 a:visited{
-color: green;
+  color: green;
 }
 
-a:unvisited{
-color: limegreen;
-}
