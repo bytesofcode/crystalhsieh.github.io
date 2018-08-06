@@ -1,5 +1,6 @@
 body {
         color: blue;
+        margin: auto;
         
 }
 h1 {
@@ -8,7 +9,10 @@ h1 {
 }
 h2 {
         color: brown;
-img {
-        margin: auto;
+
+div {
+        margin: 0 auto;
+        display: block;
+        clear: both;
 }
         
