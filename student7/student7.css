@@ -1,5 +1,5 @@
 body {
-  color: #FFFFFF;
+  color:#FFFFFF;
   background-image:url('../student7/nico.jpg');
   text-align:center;
 }
@@ -7,5 +7,5 @@ body {
 font-family: 'Lobster', cursive;
 }
 body {
-  text-shadow: 2px 2px #111111;
+  text-shadow: 3px 3px #111111;
 }
