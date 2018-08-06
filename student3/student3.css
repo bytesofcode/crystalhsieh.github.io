@@ -29,11 +29,11 @@ a:link {
         color: green;
         text-decoration: none;
 }
-a: visited {
+a:visited {
         color: blue;
         text-decoration: none;
 }
-a: hover {
+a:hover {
         color: purple;
         text-decoration: none;
         
