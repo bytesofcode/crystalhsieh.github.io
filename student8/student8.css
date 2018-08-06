@@ -13,3 +13,9 @@ h2 {
 ol {
   color: red;
 }
+
+img {
+  margin:auto;
+  display:blocks;
+  width:33%;
+}
