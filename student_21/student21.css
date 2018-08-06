@@ -44,3 +44,5 @@ a:hover {
 a:active {
         color:blue;
         text-decoration: none;
+body {
+        background-color:#dbc4f2;
