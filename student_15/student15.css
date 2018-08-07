@@ -47,6 +47,5 @@ h2{
   text-shadow: #32cd32
 }
 body{
-  border: width style color;
-border: 1px solid blue;
+  border: 2px double green
 }
