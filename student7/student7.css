@@ -34,3 +34,6 @@ p {
   color: #00808C;
   text-shadow: 3px 3px white;
 }
+h1 {
+text-shadow: with 5px height 5px blur-radius color black;
+}
