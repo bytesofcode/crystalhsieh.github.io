@@ -44,4 +44,10 @@ body {
   background-color: #00BFFF;
 }
 
+#navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 
