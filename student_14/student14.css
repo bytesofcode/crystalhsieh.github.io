@@ -26,3 +26,6 @@ div{
   display:block;
   width:fit-content;
 }
+img{
+  box-shadow:5px 5px yellow;
+}
