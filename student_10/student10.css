@@ -21,6 +21,8 @@ div {
 body{
     font-size:12px;
     background-color:#D4EFFC;
+   box-shadow: 2px 2px blue;
+
 }
 a {
     text-decoration:none;
@@ -29,5 +31,3 @@ a {
 .Places {
     color: blue;
 }*/
-box-shadow: width height colors;
-box-shadow: 2px 2px blue;
