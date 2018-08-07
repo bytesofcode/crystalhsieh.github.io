@@ -21,6 +21,7 @@ div {
         margin: 0 auto;
         display: block;
         width: 33%;
+        border: 2px solid #00FFFF;
 }
 .places {
         text-align: center
