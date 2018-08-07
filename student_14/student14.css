@@ -16,6 +16,7 @@ div{
   margin:auto;
   display:block;
   width:fit-content;
+  box-shadow:5px 5px yellow;
 }
 #badFoods{
   color:red;
@@ -24,7 +25,4 @@ div{
   margin:auto;
   display:block;
   width:fit-content;
-}
-img{
-  box-shadow:5px 5px yellow;
 }
