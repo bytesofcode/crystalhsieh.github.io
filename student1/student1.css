@@ -2,12 +2,11 @@ body {
     color: white;
     background-color: #c4c4c4;
     border: 3px solid pink; 
-    font-family: 'Sacramento', cursive;
    }
 h1 {
     color: pink;
     letter-spacing: 0.6em;
-font-family: 'Kirang Haerang', cursive;
+    font-family: 'Sacramento', cursive;
     text-shadow:3px 3px #e0e0e0;
     
 }
