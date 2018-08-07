@@ -8,6 +8,7 @@ h2 {
   color: #98FF98;
   font-family: Courier;
   text-shadow: 2px 2px blue;
+  margin: length 2 cm; 
 }
 
 h3 {
