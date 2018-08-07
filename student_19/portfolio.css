@@ -1,0 +1,37 @@
+body {
+  border: 2px dashed #FF0000;
+  background-color: #C0C0C0;
+
+}
+
+h1{
+  font-family: Roboto, sans-serif;
+  text-shadow: 1px 1px #FFFF00;
+  box-shadow: 5px 5px blue;
+}
+
+#navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #D3D3D3;
+}
+
+
+.nav {
+    float: left;
+}
+
+.nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.nav a:hover {
+    background-color: #111;
+}
