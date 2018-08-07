@@ -17,7 +17,6 @@ h3{
 }
 .place {
   color: yellow;
-  textalign: center;
 }
 #mango {
   font-weight: bold;
@@ -35,3 +34,5 @@ a:active {color: skyblue}
 body {
 background-color: blue;
 }
+.places {
+  text-align:center;
