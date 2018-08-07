@@ -21,6 +21,7 @@ img {
        margin: 0 auto;
        display: block;
        width:33%;
+       box-shadow:2px 2px yellow;
 }
 ul {
         text-align: center;
@@ -33,6 +34,7 @@ ul {
         color:rgb(106, 242, 228);
         font-style: italic;
         font-weight: bold;
+        
 }
 a:link {
         color:#a5efad;
