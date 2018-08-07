@@ -15,6 +15,12 @@ ol {
   color: #F9F60A;
 }
 
+title {
+  margin:auto;
+  display:block;
+  width:33%;
+}
+
 img {
   margin:auto;
   display:block;
