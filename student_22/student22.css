@@ -3,7 +3,7 @@ body{
 background-color:#336699;
 }
 h1 {
-  color: blue;
+  color: #e6b800;
   letter-spacing: 0.3em;
   font-family: 'Roboto Mono', monospace;
   }
@@ -36,7 +36,7 @@ a:hover{
 #Ice_cream{
   font-family: 'Dancing Script', cursive;
   font-size: 30px;
-  }
+   }
 
 div {
     border: 1px solid black;
