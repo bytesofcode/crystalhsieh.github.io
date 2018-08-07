@@ -1,13 +1,14 @@
 body{
-color:blue;
-background-color:#d2afed;
+  color:blue;
+  background-color:#d2afed;
+  border:5px solid orange;
 }
 h1{
-color:green;
-letter-spacing:0.5em;
+  color:green;
+  letter-spacing:0.5em;
 }
 h2{
-color:#ffcc66;
+  color:#ffcc66;
 }
 div{
   margin:auto;
@@ -18,9 +19,7 @@ div{
   color:red;
 }
 .places{
-margin:auto;
+  margin:auto;
   display:block;
   width:fit-content;
-}
-border:5px solid orange;
 }
