@@ -2,6 +2,7 @@ h1{
 color: #83AE9B;
 text-align: center;
 letter-spacing: 0.5em;
+font-family: 'Kirang Haerang', cursive;
 }
 
 h2, h3, #favorite-icecream{
@@ -20,8 +21,4 @@ img{
 margin: auto;
 display: block;
 width: 33%;
-}
-
-head{
-font-family: 'Kirang Haerang', cursive;
 }
