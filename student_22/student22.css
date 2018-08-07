@@ -8,7 +8,7 @@ h1 {
   font-family: 'Roboto Mono', monospace;
   }
 h2 {
-  color: brown;
+  color:  #4d2600;
   }
 h3{
   color: red;
@@ -31,5 +31,5 @@ a:visited{
 }
 a:hover{
   color: lightblue;
- }
+}
 
