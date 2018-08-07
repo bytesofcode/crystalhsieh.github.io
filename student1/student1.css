@@ -1,7 +1,8 @@
 body {
-    color: blue;
+    color: white;
     background-color: #c4c4c4;
     border: 3px solid pink; 
+    font-family: 'Sacramento', cursive;
    }
 h1 {
     color: pink;
