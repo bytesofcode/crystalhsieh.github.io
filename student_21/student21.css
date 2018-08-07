@@ -21,7 +21,7 @@ img {
        margin: 0 auto;
        display: block;
        width:33%;
-       box-shadow:2px 2px yellow;
+       box-shadow:5px 5px yellow;
 }
 ul {
         text-align: center;
