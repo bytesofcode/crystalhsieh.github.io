@@ -7,9 +7,11 @@ body {
 h1 {
         color:#b86fd6;
         letter-spacing: 5px;
+        font-family:Khand;
 }
 h2 {
         color:#f7e5b9;
+        font-family:Reenie Beanie;
 }
 h3 {
         color:red;
