@@ -49,7 +49,7 @@ a: focus {
 
 body {
 background-color: #CCFFFF;
-border: 1px dashed blue; 
-box-shadow: 12px 12px blue;
+border: 1px solid #ffffff; 
+box-shadow: 12px 12px #CCFFFF;
 }
 
