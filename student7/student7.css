@@ -6,6 +6,9 @@ body {
 body {
 font-family: 'Lobster', cursive; 
 }
+body {
+font-size: 15px; 
+}
 h1 {
 font-family: 'Nosifer', cursive;
 }
