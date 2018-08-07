@@ -12,7 +12,6 @@ h1{
 }
 h2{
   color:#ffcc66;
-  text-shadow:0 0 19px white;
 div{
   margin:auto;
   display:block;
@@ -20,7 +19,6 @@ div{
 }
 #badFoods{
   color:red;
-  text-shadow:0 0 19px white;
 }
 .places{
   margin:auto;
