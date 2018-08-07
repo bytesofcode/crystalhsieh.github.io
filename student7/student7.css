@@ -19,8 +19,8 @@ h1 {
   text-shadow: 3px 3px #43DE00;
 }
 body {
-  border: 7px dotted black;
+  border: 6px dotted white;
 }
 body {
-  border: 6px dotted white;
+    box-shadow: 5px 10px #00FFF7;
 }
