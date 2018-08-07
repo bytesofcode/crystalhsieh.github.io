@@ -4,8 +4,12 @@ text-align: center;
 letter-spacing: 0.5em;
 }
 
-h2, #favorite-icecream{
+h2, h3, #favorite-icecream{
 color: #000080;
+}
+
+h4{
+color: #FF69B4;
 }
 
 #foods-i-dislike{
