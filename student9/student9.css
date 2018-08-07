@@ -25,16 +25,6 @@ li {
     list-style-type: none;
 }
 body {
-    backround-color:#F9D1DA
+    backround-color: #F9D1DA
+    font-size: 12px;
 }
-p.one {
-    border-style: solid;
-    border-color: #FF9999;
-}
-
-(backround) {     
-            color: black; 
-            background-color: #F0F0F0;
-            font-size: 12px;
-}
-
