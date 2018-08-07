@@ -44,11 +44,14 @@ h4{
   font-family: 'Indie Flower', cursive;
 }
 body{ 
-  text-shadow: 2px 2px pink
+  text-shadow: 2px 2px pink;
 }
 body{
-  border: 2px dotted green
+  border: 2px dotted green;
 }
 body{
-  box-shadow: 2px 2px black
+  box-shadow: 2px 2px black;
+}
+body{
+  text-shadow: 0 0 19px white;
 }
