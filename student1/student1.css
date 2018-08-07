@@ -1,6 +1,7 @@
 body {
     color: blue;
-}
+    background-color: #c4c4c4;
+   }
 h1 {
     color: pink;
     letter-spacing: 0.6em;
@@ -38,6 +39,4 @@ a:visited {
 }
 a:hover {
     color:#c62700;
-}
-{background-color: #c4c4c4
 }
