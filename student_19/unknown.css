@@ -1,5 +1,6 @@
 body {
-  border: 2px dashed #FF0000
+  border: 2px dashed #FF0000;
+  background-color: #C0C0C0;
   text-shadow: 2px 2px blue;
 }
 
