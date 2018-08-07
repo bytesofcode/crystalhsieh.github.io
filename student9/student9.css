@@ -31,3 +31,10 @@ p.one {
     border-style: solid;
     border-color: #FF9999;
 }
+
+(selector) {     
+            color: black; 
+            background-color: #F0F0F0;
+            font-size: 12px;
+}
+
