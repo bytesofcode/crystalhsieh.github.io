@@ -3,7 +3,6 @@ body {
         margin: auto;
         background-color: #E6E6FA;
         font-family: "Lucida Console", Monaco, monospace
-        border: 2px double #00FFFF;
 }
 h1 {
         color: #c7d6d8;
@@ -21,7 +20,7 @@ div {
         margin: 0 auto;
         display: block;
         width: 33%;
-        border: 2px double #00FFFF;
+        border: 5px double #00FFFF;
 }
 .places {
         text-align: center
