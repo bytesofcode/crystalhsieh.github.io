@@ -2,6 +2,7 @@ h1 {
   color: blue;
   text-align: center;
   font-family: Verdana; 
+  text-shadow: 0 0 19px blue;
 }
 
 h2 {
