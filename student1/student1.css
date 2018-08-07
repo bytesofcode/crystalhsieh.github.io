@@ -21,7 +21,7 @@ img {
     display: block;
     width: 20%;
     height: 33%;
-    box shadow:8px 10px pink;
+    box-shadow:6px 7px pink;
 }
 ul {
     text-align: center;
