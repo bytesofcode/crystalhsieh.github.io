@@ -29,3 +29,6 @@ a {
 .Places {
     color: blue;
 }*/
+img {
+    box-shadow: 2px 2px blue;
+}
